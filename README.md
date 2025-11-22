@@ -77,7 +77,7 @@ pip install notebook
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Shahria-Faysal/chess-eda.git
+git clone https://github.com/Shahria-Faysal/EDA-on-Online-Chess-Games.git
 ```
 
 2. Open the notebook:
